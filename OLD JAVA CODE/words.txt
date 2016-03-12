@@ -1,0 +1,27 @@
+﻿() plz no sp@ces
+bat
+hat
+search
+methodolody
+bacon
+cheese
+apple
+morbid
+sad
+fad
+ɣaʂʐ
+ʂʐaθ
+afro
+hgjfhfhajjg
+kkkkjay
+adsfjj 
+
+-Write into a pop up text file
+-‏Inputing of data is all on the users end
+-feature designation that talks about + / - 
+
+diacritics.rules
+basefeatures.txt
+
+
+[b, h , e, s, f, ʐ, ] [+syllabic, -blah, +blah]

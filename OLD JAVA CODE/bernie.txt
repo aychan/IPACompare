@@ -1,0 +1,2152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><script src="//cdn.optimizely.com/js/2868921768.js"></script><meta name="viewport" content="width=device-width, initial-scale=1"><title>Bernie Sanders for President  |  Join Bernie Sanders for President</title><meta property="og:image" content="https://s.bsd.net/bernie16/main/page/-/website/bsd-fb-share.png"><link rel="shortcut icon" href="https://s.bsd.net/bernie16/main/page/-/favicon.ico"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@BernieSanders"><script src="//use.typekit.net/vga4irg.js"></script><script>try{Typekit.load();}catch(e){}</script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script>jQuery.noConflict();</script><style>
+
+/* ===GLOBAL=== */
+
+body {
+  margin: 0;
+  font-family:  "freight-sans-pro";
+  -webkit-font-smoothing: antialiased;
+  font-weight: 300;
+}
+
+.clear:before,
+.clear:after {
+  content: " ";
+  display: table;
+}
+
+.clear:after {
+  clear: both;
+}
+/* ===HEADER=== */
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+aychan@umass.edu
+http://www.fmail.com
+www.ok.com
+http://www.thisisawesome.com/youcanreadmetoo
+
+header {
+  padding: 1em 2em;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #EFF3F7;
+  margin-top: 2.5em;
+}
+
+header h1 {
+  width: 160px;
+  height: 66px;
+  color: transparent;
+  text-indent: -999em;
+  background-image: url('https://s.bsd.net/bernie16/main/page/-/website/logo.png');
+  background-repeat: no-repeat;
+  background-size: 160px 66px;
+  margin: 0 auto;
+}
+
+header .contribute {
+  text-align:center;
+  margin-top: 0;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+a.contribute:link,
+a.contribute:visited,
+a.contribute:active {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family:  "freight-sans-pro";
+  font-weight: 600;
+  background-color: #F55B5B;
+  border-radius: 0;
+  display: block;
+  margin: 0;
+  letter-spacing: 0.15em;
+  padding: 0.7rem 1.7rem;
+  box-sizing: border-box;
+}
+
+a.contribute:link:hover,
+a.contribute:visited:hover,
+a.contribute:active:hover {
+  color: #fff;
+  background-color: #EC3E3E;
+}
+/* ===CONTENT=== */
+
+.content {
+  padding: 1em 0.5em;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 400px;
+}
+
+.intro {
+  width: 100%;
+  padding-bottom: 0.5em;
+  font-weight: 400;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  box-sizing: border-box;
+}
+
+b, strong{
+  font-family:  "freight-sans-pro";
+  font-weight: 700;
+  font-style: normal;
+}
+
+h2 b, h2 strong{
+  font-family:  "jubilat";
+  font-weight: 400;
+  font-style: normal;
+}
+
+i, em {
+  font-family:  "freight-sans-pro";
+  font-style: italic;
+}
+
+ul, ol {
+  padding: 0 1.5em;
+}
+
+li{
+  font-size: 1.1em;
+  padding: 0.3rem;
+}
+
+h1 {
+  color: #F55B5B;
+  font-family:  "freight-sans-pro";
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1.4rem;
+  letter-spacing: 0.1em;
+  margin: 0;
+  padding-bottom: 0.25rem;
+}
+
+h2, .forgot-pw #forgotpw .header {
+  font-family: 'jubilat';
+  color: #147FD7;
+  font-weight: 400;
+  font-size: 2.2em;
+  letter-spacing: 0;
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.forgot-pw #forgotpw .header {
+  border: 0;
+}
+
+h3.leader, #content h3.leader{
+  font-family: 'jubilat';
+  color: #FFF;
+  font-size: 1.8rem;
+  margin: 1rem 0 0.5rem;
+  text-transform: none;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+h3{
+  color: #147FD7;
+  font-family:  "freight-sans-pro";
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 1.6rem;
+  letter-spacing: 0.1em;
+  margin: 1.5em 0 0;
+}
+
+.content img {
+  max-width: 100%;
+  margin: 1.5em 0;
+}
+
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+  margin: 1.5em 0;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+p, .forgot-pw #forgotpw .instructions {
+  line-height: 1.5;
+  font-weight: 400;
+  color: #364350;
+  font-size: 1.1em;
+}
+
+a,
+a:link,
+a:visited {
+  color: #147FD7;
+  text-decoration: none;
+}
+
+a:hover,
+a:link:hover,
+a:visited:hover {
+  color: #3fb7f7;
+}
+
+blockquote {
+  border-radius: 3px;
+  font-family: 'freight-sans-pro';
+  color: #606B75;
+  line-height: 1.6;
+  background-color: #EFF3F7;
+  margin: 1.5em 0;
+  font-size: 0.9rem;
+  padding: 0.5rem 1em;
+}
+/* ===FORM=== */
+
+.signup {
+    margin-bottom: 3em;
+  margin-top: 1em;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: #147FD7;
+  border-radius: 5px;
+  padding: 0.2em 1.2em;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.signup br{
+  display: none;
+}
+
+#signup {
+  margin-top: 0.7em;
+}
+
+#addr2{
+  margin-top: 10px;
+}
+
+#login_form input[type="checkbox"]{
+  margin-top: 1.6rem;
+  margin-left: -0.5rem;
+}
+
+#login_form .checkbox-label{
+ font-family: 'freight-sans-pro';
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #C4DFF5;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+   padding-bottom: 0.2em;
+  margin-left: 0.3rem;
+}
+
+.forgot-pw label,
+#login_form .form_label,
+.content #signup label,
+.content #invitationpage label,
+.content #unsub_form b,
+.content #unsub_form span{
+  font-family: 'freight-sans-pro';
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #C4DFF5;
+  font-size: 0.95em;
+  letter-spacing: 0.1em;
+   padding-bottom: 0.2em;
+  display: block;
+  margin-top: 1em;
+}
+
+.bsd-login label span{
+ font-family: 'freight-sans-pro';
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #C4DFF5;
+  font-size: 0.95em;
+  letter-spacing: 0.15em;
+  padding-bottom: 0.2em;
+  padding-top: 0.4rem;
+  display: inline-block;
+}
+
+select {
+  width: 100%;
+  height: 45px;
+  display: block;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  border-radius: 3px;
+  font-size: 1.1em;
+  font-family: 'freight-sans-pro';
+  padding: 0.1em 0.5em 0;
+  background-color: white;
+}
+
+.input input, 
+#event_simple_search_form input, 
+#event_rsvp input,  
+#event_rsvp textarea,
+.eventSuccess textarea,
+.eventSuccess input[type="text"],
+#login_form input[type="text"], 
+#login_form input[type="password"],
+.bsd-login input[type="text"],
+.bsd-login input[type="password"],
+.forgot-pw input[type="text"] {
+  padding-left: 0.5em;
+  border-radius: 3px;
+  width: 100%;
+  height: 45px;
+  font-size: 1.3em;
+  border: 0;
+  font-family: 'freight-sans-pro';
+  color: #333333;
+}
+
+.input input[type="file"] {
+  color: white;
+  font-weight: 500;
+  font-size: 1.1rem;
+  margin-top: 5px;
+  padding-left: 0;
+  height: 30px;
+}
+
+.fieldset, .field{
+  margin-top: 0.7em;
+}
+
+.input select {
+  font-size: 1.1em;
+  width: 100%;
+  font-family: 'freight-sans-pro';
+  padding: 0.3em 0.3em 0.4em;
+}
+
+.checkboxgroup, .radiogroup{
+  position: relative;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+.content #signup .checkboxgroup .checkbox-label .field {
+  font-size: 1em;
+  padding-top: 0;
+  margin: 0;
+}
+
+.checkboxgroup:first-of-type, .radiogroup:first-of-type {
+  margin-top: 5px;
+}
+
+
+.checkboxgroup input[type="checkbox"], .radiogroup input[type="radio"] {
+  position: absolute;
+  display: block;
+  height: 25px;
+  width: 25px;
+  margin-left: 0;
+  top: 3px;
+  left: 0;
+}
+
+.content #signup .checkboxgroup label, .content #signup .radiogroup label, #secondform .radiogroup label {
+  font-family: 'freight-sans-pro';
+  text-transform: uppercase;
+  line-height: 1.35;
+  letter-spacing: 0.1em;
+  color: #FFF;
+  padding-top: 5px;
+  font-size: 1.1em;
+  font-weight: 500;
+  margin: 0px 0 0 35px;
+}
+
+#secondform .radiogroup label {
+  display: block;
+}
+
+#signup .checkbox-label:first-of-type {
+  margin-top: 10px;
+}
+
+#login_form .loginbutton{
+  padding-left: 0;
+  margin-top: 1.3rem;
+}
+
+.eventSuccess .invitebutton input[type="submit"],
+.forgot-pw input[type="submit"],
+#login_form input[type="submit"],
+.bsd-login input[type="submit"]{
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.eventSuccess .invitebutton input[type="submit"],
+.bsd-login input[type="submit"]{
+  margin-top: 1rem;
+}
+
+.bsd-login .signup{
+  padding-top: 1rem;
+  margin-bottom: 0;
+}
+
+.eventSuccess .invitebutton input[type="submit"],
+.createStep2 input[type="submit"],
+.forgot-pw input[type="submit"],
+.bsd-login input[type="submit"],
+#login_form input[type="submit"],
+#invitationpage .input input[type="submit"],
+#invitationpage #submit_button,
+.input input[type="submit"],
+#unsub_form input[type="submit"],
+#event_simple_search_form input[type="submit"],
+#event_rsvp input[type="submit"] {
+  background-color: #F55B5B;
+  background-image: none;
+  border: 1px solid #F55B5B;
+  border-radius: 3px;
+  color: white !important;
+  height: 50px;
+  font-size: 1.1em;
+  letter-spacing: 0.15rem;
+  font-family: 'freight-sans-pro';
+  text-transform: uppercase;
+  font-weight: 600;
+  -webkit-appearance: none;
+}
+
+#unsub_form input[type="submit"] {
+  margin-top: 1em;
+  margin-bottom: 3em;
+}
+
+#invitationpage .input input[type="submit"]:hover,
+#invitationpage #submit_button:hover,
+#unsub_form .input input[type="submit"]:hover {
+  background-color: #EC3E3E;
+  border: 1px solid #EC3E3E;
+}
+
+#signuptable {
+  width: 100%;
+}
+
+#signupfooter, #signupfooter p {
+  margin-bottom: 1em;
+  color: white;
+}
+
+span.error {
+  font-size: 0.8em;
+  margin-top: 0.4em;
+  font-weight: 700;
+  text-transform: uppercase;
+  display: block;
+  letter-spacing: 0.1em;
+  color: #F5C15B;
+}
+
+span.error a,
+span.error a:link,
+span.error a:visited{
+  color: #FFFFFF;
+}
+
+span.signuperror {
+  background-color: transparent;
+  display: block;
+  color: white;
+  border: 2px solid #F5C15B;
+  text-align: center;
+  padding: 0.75em 0.5em;
+  margin: 1.5em 0 0;
+  letter-spacing: 0.1em;
+  font-size: 0.8em;
+  border-radius: 3px;
+}
+/* ===SHARE PAGE=== */
+
+#invitationpage p {
+  font-size: 1em;
+  color: #EFF3F7;
+}
+
+#invitationpage .bsd-bodyStatic p {
+  color: #EFF3F7;
+}
+
+#invitationpage textarea,
+#invitationpage input,
+#signup textarea,
+#unsub_form textarea,
+#unsub_form input {
+  border-radius: 3px;
+  padding-left: 0.5em;
+  width: 100%;
+  height: 40px;
+  font-size: 1.1em;
+  border: 0;
+  font-family: 'freight-sans-pro';
+  color: #333333;
+}
+
+#invitationpage label,
+#unsub_form label {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  clear: both;
+}
+
+#invitationpage textarea,
+#signup textarea,
+#unsub_form textarea,
+.eventSuccess textarea {
+  height: 80px;
+  padding: 0.5em;
+  line-height: 1.4;
+  font-size: 0.9em;
+}
+
+#invite_table {
+  width: 100% !important;
+  padding: 0 !important;
+}
+
+#invitationpage .bsd-shareButtons-wrap {
+  font-family: 'freight-sans-pro'
+  text-transform: uppercase;
+  margin-top: 0.2em;
+}
+
+.eventSuccess .bsd-shareButtons-wrap a.bsd-shareButton-facebook,
+.eventSuccess .bsd-shareButtons-wrap a.bsd-shareButton-twitter,
+#invitationpage .bsd-shareButtons-wrap a.bsd-shareButton-facebook,
+#invitationpage .bsd-shareButtons-wrap a.bsd-shareButton-twitter {
+  border-radius: 3px;
+  text-transform: uppercase;
+  width: 100%;
+  font-weight: 600;
+  padding: 13px;
+  letter-spacing: 2px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+#invitationpage .bsd-shareButtons-wrap a.bsd-shareButton-twitter {
+  margin-top: 10px;
+}
+
+#invitationpage .help {
+  display: block;
+  margin: 0.5em 0.1em;
+  font-size: 0.8em !important;
+  color: #EFF3F7 !important;
+}
+
+.eventSuccess #contact_importer_button_container a#contact_importer_button,
+#invitationpage #contact_importer_button_container #contact_importer_button {
+  font-size: 0.8em;
+  font-family: 'freight-sans-pro';
+  color: #EFF3F7;
+  background-color: #208FEB;
+  border: 2px solid #208FEB;
+  padding: 0.85em 0;
+  text-transform: uppercase;
+  background-image: none;
+  background-repeat: no-repeat;
+  border-radius: 3px;
+  font-weight: 500;
+  width: 98%;
+  margin: 6px 0 4px 0.2em;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  float: none;
+  letter-spacing: 3px;
+}
+
+#invitationpage .bsd-required-asterisk {
+  color: #aaa;
+}
+/* ===UNSUBSCRIBE=== */
+
+#unsub_form b,
+#unsub_form span {
+  margin-top: 1em;
+  margin-bottom: 0.2em;
+}
+
+#unsub_form br {
+  display: none;
+}
+/* ===FOOTER=== */
+
+footer {
+  margin-top: 3em;
+  text-align: center;
+  background-color: #EFF3F7;
+  clear: both;
+  font-weight: 400;
+  padding: 3em 0.5em 1em;
+}
+
+footer .address {
+  text-align: center;
+  clear: both;
+  font-family: 'freight-sans-pro';
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+footer p {
+  text-align: center;
+  clear: both;
+  font-family: 'freight-sans-pro';
+  font-weight: normal;
+  font-style: normal;
+  text-transform: lowercase;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+footer a,
+footer a:link,
+footer a:visited {
+  text-decoration: none;
+  color: #364350;
+}
+
+footer a:hover,
+footer a:link:hover,
+footer a:visited:hover {
+  color: #147FD7;
+}
+
+footer .disclaimer {
+  font-family: 'freight-sans-pro';
+  font-weight: normal;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  border: 1px solid #364350;
+  font-size: 1rem;
+  max-width: 300px;
+  padding: 0.5rem 0;
+  margin: 3rem auto 0;
+}
+
+footer .billionaires {
+  display: block;
+  margin: 1rem auto 3rem;
+  width: 197px;
+  height: 33px;
+  background-image: url("https://s.bsd.net/bernie16/main/page/-/website/billionaires.png");
+  background-size: 197px 33px;
+  text-indent: -9999em;
+  overflow: hidden;
+  color: transparent;
+  background-repeat: no-repeat;
+}
+
+/* ===EVENTS=== */
+
+.event-page .title .type{
+  display: none;
+}
+
+.event-page #SKIN .main, .content #SKIN .main {
+  padding: 20px 0px;
+}
+
+.event-page #SKIN h3 {
+  font-family: 'jubilat';
+  text-transform: none;
+  color: #F55B5B;
+  font-weight: 400;
+  font-size: 2rem;
+  letter-spacing: 0;
+  margin: 2rem 0 0;
+}
+
+.event-page #SKIN #control_set h1, .content #SKIN #control_set h1 {
+  color: #F55B5B;
+  display: block;
+  font-family: "freight-sans-pro";
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1.6rem;
+  letter-spacing: 0.1em;
+  margin: 0;
+  padding-bottom: 0.25rem;
+  float: none;
+}
+
+#SKIN .basic .main h2, #SKIN .basic .main h2.header, #SKIN .basic .main h2#sectionheader, .event-page #sectionheader {
+  font-size: 2.8rem;
+  font-weight: normal;
+  border-bottom: 0;
+  text-transform: none;
+  line-height: 1;
+}
+
+#event_simple_search_form #simpleform a {
+  display: none;
+}
+
+#event_simple_search_form input, #event_rsvp input, #event_rsvp select {
+  margin-top: 5px;
+}
+
+#event_rsvp input, #event_rsvp select {
+  margin-bottom: 15px;
+}
+
+#event_rsvp input[name="guests"]{
+  margin-bottom: 5px;
+}
+
+#event_rsvp .explain{
+  margin-bottom: 15px;
+font-family: 'freight-sans-pro';
+color: white;
+text-transform: none;
+  
+}
+
+.event-page #SKIN #account_actions,.content #SKIN #account_actions {
+  display: block;
+  float: none;
+}
+
+.event-page #SKIN #control_set h1 {
+  display: block;
+  float: none;
+}
+
+#event_simple_search_form .table_container, #event_rsvp {
+  font-family: 'freight-sans-pro';
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #C4DFF5;
+  font-size: 0.9em;
+  letter-spacing: 0.2em;
+  padding-bottom: 0.2em;
+  display: block;
+  margin-top: 1em;
+}
+
+#event_search_zip {
+  margin-bottom: 20px;
+}
+
+#radius_unit{
+  margin-top: -5px;
+}
+
+#event_radius_unit {
+  margin-top: 0px;
+  display: block;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.event-page #SKIN .basic .main #eventdetail .title {
+  font-size: 2rem;
+  margin-bottom: 6px;
+  line-height: 1.2;
+  margin-top: 18px;
+  font-family: 'jubilat';
+  font-weight: normal;
+  color: #147FD7;
+  padding-top: 20px;
+  border-top: 1px solid #EFF3F7;
+  margin-top: 0;
+}
+
+.event-page #SKIN .detailtable_container {
+  background: #EFF3F7;
+  border-top: 0;
+  margin-bottom: 18px;
+  padding: 10px 10px 15px;
+}
+
+#event_detail_xml_link img, #search_results_xml_link {
+ display: none;
+}
+
+#SKIN #eventdetail .form_label {
+  text-transform: uppercase;
+  text-align: left;
+  font-family: 'freight-sans-pro';
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #F55B5B;
+  font-size: 1.1rem;
+  letter-spacing: 0.1em;
+  padding-right: 10px;
+  text-align: right;
+  font-weight: normal;
+}
+
+#detailtable td, #detailtable th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.maplinks ul{
+  padding: 0;
+}
+
+.maplinks li{
+  list-style-type: none;
+  padding: 0.7rem 0;
+}
+
+.maplinks li a, #event_detail_xml_link a, #eventsearch #search_results_xml_link a{
+  padding: 0.4rem 1rem;
+  background-color: #A7B6C5;
+  letter-spacing: 0.1em;
+  border-radius: 3px;
+  color: white;
+  font-family: 'freight-sans-pro';
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+#event_rsvp span {
+  display: block;
+}
+
+.maplinks li a:hover, #event_detail_xml_link a:hover, #eventsearch #search_results_xml_link a:hover{
+  color: white;
+  background-color: #147FD7;
+}
+
+.content #event_rsvp .checkboxgroup label, .content #event_rsvp .radiogroup label {
+  font-family: 'freight-sans-pro';
+  text-transform: uppercase;
+  font-weight: 500;
+  line-height: 0.9;
+  letter-spacing: 0.06em;
+  color: #FFF;
+  padding-top: 1px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  padding: 15px 0 0 25px;
+  display: block;
+  border-top: 2px solid #8ABFEB;
+  margin-top: 25px;
+}
+
+.content #event_rsvp #loginform .checkboxgroup label{
+  border-top: 0;
+  margin-top: 0;
+}
+
+#event_rsvp .radiogroup input, #event_rsvp .checkboxgroup input {
+  height: 15px;
+  width: 15px;
+  margin-top: 0;
+    top: 20px;
+}
+
+#event_rsvp .radiogroup {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+}
+
+#event_rsvp .checkboxgroup {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+#event_rsvp h2#sectionheader {
+  color: white;
+  font-size: 2rem;
+  border-bottom: 2px solid #8ABFEB;
+  padding-bottom: 15px;
+  line-height: 1.1;
+  margin-bottom: 15px;
+}
+
+#event_rsvp textarea{
+  height: 75px;
+  margin-top: 5px;
+  padding: 0.75em;
+  margin-bottom: 5px;
+display: none;
+}
+
+#event_rsvp #loginform .checkboxgroup{
+    margin-bottom: 30px;
+}
+
+a.loginforgotlink {
+  font-family: 'freight-sans-pro';
+  letter-spacing: 0;
+  text-transform: none;
+  color: #C4DFF5;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+a.loginforgotlink:hover {
+  color: #fff;
+}
+
+.event-page #SKIN #eventdetail #event_detail_xml_link, .event-page #SKIN #eventsearch #event_search_xml_link {
+  float: none;
+  margin: 25px 0 30px;
+}
+
+.event-page #signupform, .event-page #loginform{
+  display: none;
+}
+
+#event_map{
+  display: none;
+}
+
+#event_list h3.title{
+  font-family: 'jubilat';
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.event-results .signup{
+   background-color: #fff;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#filters h3{
+  color: #147FD7;
+  font-family: 'freight-sans-pro';
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 0.8;
+  font-size: 1.6rem;
+  letter-spacing: 0.1em;
+  margin: 1.5em 0 0;
+}
+
+.event-results #event_results .event h3.title a {
+  font-size: 1.4rem;
+  font-weight: normal;
+  line-height: 1.1;
+}
+
+#event_results h3#count {
+  margin-top: 0rem;
+  margin-bottom: 2rem;
+}
+
+.event-results #event_results .event h3.title {
+  margin-top: 0;
+margin-bottom: 1rem;
+}
+
+.event-results #SKIN #eventsearch #search_results_xml_link{
+  float: none;
+}
+
+.event-results #event_results {
+  float: none;
+  margin: 20px 0;
+  padding-top: 2px;
+  width: 100%;
+}
+
+.datebox .english {
+  font-size: 0.7em;
+}
+
+.bsd-login fieldset{
+  border: 0;
+  padding: 0;
+}
+
+/* -- Header -- */
+
+.createStep2 #control_set .bsd-page-header-content h1 {
+  display: inline-block;
+  float: left;
+  font-family: 'jubilat';
+  color: #147FD7;
+  font-size: 1.6rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+}
+/* -- Account Actions -- */
+
+.createStep2 .bsd-page-header-content button{
+  display: inline-block;
+  float: right;
+  background-color: #fff;
+  border: 0;
+  border-radius: 5px;
+  color: #364350;
+  margin-top: 4px;
+  text-transform: uppercase;
+  position: relative;
+  font-size: 1.1rem;
+  font-family: 'freight-sans-pro';
+  letter-spacing: 0.15rem;
+  padding-right: 40px;
+}
+
+.createStep2 .bsd-page-header-content button span{
+  width: 25px;
+  border-radius: 3px;
+  height: 2px;
+  display: block;
+  position: absolute;
+  background-color: #364350;
+  top: 6px;
+  right: 5px;
+}
+
+.createStep2 .bsd-page-header-content button span:nth-of-type(2){
+ top: 13px;
+}
+
+.createStep2 .bsd-page-header-content button span:nth-of-type(3){
+ top: 20px;
+}
+
+.createStep2 #control_set #account_actions {
+  float: none;
+  clear: both;
+  margin-top: 0.4rem;
+  padding-top: 0.4rem;
+  font-size: 0;
+  width:100%;
+  text-align: right;
+  display: none;
+}
+
+.createStep2 #control_set #account_actions a {
+  background-color: #A7B6C5;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  padding: 0.55rem 0.85rem;
+  box-sizing: border-box;
+  border-bottom: 1px solid #EFF3F7;
+  display: block;
+  font-weight: 500;
+  box-sizing: border-box;
+  font-size: 0.9rem;
+}
+
+.createStep2 #control_set #account_actions a:first-of-type {
+  border-radius: 3px 3px 0 0;
+}
+
+.createStep2 #control_set #account_actions a:last-of-type {
+  border-radius: 0 0 3px 3px;
+  border: 0;
+}
+
+.createStep2 #login_status {
+  display: none;
+  text-align: right;
+}
+
+.createStep2 .delimiter {
+  display: none;
+}
+
+.createStep2 #control_set {
+  padding: 1rem 1rem;
+}
+/* -- Form Intro -- */
+
+.createStep2 .content #SKIN .main {
+  padding: 0px;
+}
+
+.createStep2 .intro {
+  width: 100%;
+  margin-top: 0;
+  padding-bottom: 0.5rem;
+}
+
+.createStep2 .ui-widget-header {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.createStep2 #SKIN .main h3 {
+  font-family: 'freight-sans-pro';
+  color: #F55B5B;
+  font-size: 2.2rem;
+  margin: 0;
+  margin-top: -0.5rem;
+  text-transform: lowercase;
+  font-weight: 600;
+  letter-spacing: .1rem;
+  font-variant: small-caps;
+}
+
+.createStep2 .instructions {
+  text-align: center;
+}
+/* -- Form  -- */
+
+.createStep2 section {
+  color: white;
+}
+
+.createStep2 form {
+  width: 100%;
+  clear: both;
+  margin: 0 auto;
+}
+
+.createStep2 form > div > section {
+  background-color: #147FD7;
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin: 2rem 0;
+  padding: 1rem 1rem 3rem;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.createStep2 #secondform > div > section:last-child {
+  padding: 1rem;
+}
+
+.createStep2 .sectionheader {
+  border-bottom: 0;
+}
+
+.createStep2 .sectionheader h3 {
+  text-transform: none;
+  color: white;
+  font-family: 'jubilat';
+  font-size: 2.4rem;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  letter-spacing: 0;
+  padding-bottom: 1rem;
+  margin: 1rem 0 0.5;
+  line-height: 1;
+}
+/* -- Form Basics  -- */
+
+.createStep2 .field p{
+  font-size: 1rem;
+  line-height: 1.2;
+  margin-top: 0.5rem;
+  color: white;
+}
+
+.createStep2 .static {
+  color: white;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 0.7;
+}
+
+.createStep2 label {
+  font-family: 'freight-sans-pro';
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #C4DFF5;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  display: inline;
+  line-height: 1;
+}
+
+.createStep2 .label{
+  line-height: 1;
+    margin: 1.5rem 0 0.5rem;
+}
+
+.createStep2 .field {
+  margin-top: 0;
+}
+
+.createStep2 input[type="text"],
+.createStep2 textarea {
+  padding-left: 0.5em;
+  border-radius: 3px;
+  width: 100%;
+  height: 42px;
+  font-size: 1.3em;
+  border: 0;
+  font-family: 'freight-sans-pro';
+  color: #333333;
+}
+
+.createStep2 textarea {
+  height: 90px;
+}
+
+.createStep2 select {
+  height: 42px;
+}
+
+.createStep2 input[type="submit"] {
+  background-color: #F55B5B;
+  border: 1px solid #F55B5B;
+  border-radius: 3px;
+  color: white !important;
+  height: 50px;
+  font-size: 1.1em;
+  letter-spacing: 0.15rem;
+  font-family: 'freight-sans-pro';
+  text-transform: uppercase;
+  font-weight: 600;
+  -webkit-appearance: none;
+}
+
+.createStep2 input.ui-state-default {
+  width: 100%;
+  max-width: 300px;
+  margin: 3rem auto 0;
+  display: block;
+}
+
+
+/* -- Form Layout  -- */
+
+
+
+/* -- Form Details  -- */
+
+.createStep2 table#avm_block {
+  margin: 0.5rem;
+}
+
+.createStep2 .checkbox .field.td {
+  float: left;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.createStep2 .checkbox .label.td {
+  float: left;
+  margin-right: 10px;
+}
+
+.createStep2 section .required {
+  color: #C4DFF5;
+  font-weight: 500;
+  margin: 2rem 0 0;
+  text-align: right;
+}
+
+.createStep2 section span {
+  color: #fff !important;
+  display: inline;
+}
+
+.createStep2 section span.error {
+  color: #F5C15B !important;
+  display: inline;
+}
+
+.createStep2 .bsd-when {
+  color: #C4DFF5;
+  font-weight: 600;
+  line-height: 2.75;
+}
+
+.createStep2 #start_day_cal {
+  display: none;
+}
+
+.createStep2 .date-select {
+  width: 28%;
+  display: inline-block;
+  margin-right: 3.5%;
+}
+
+.createStep2 .date-select:last-of-type {
+  margin-right: 0;
+}
+
+.createStep2 .time-select {
+  width: 28%;
+  display: inline-block;
+  margin-right: 3.5%;
+}
+
+.createStep2 .time-select:last-of-type {
+  margin-right: 0;
+}
+
+.createStep2 input[type="text"].duration-select,
+.createStep2 .duration-select {
+  width: 20%;
+  margin-left: 2.5%;
+  display: inline-block;
+}
+
+.createStep2 input[type="text"].duration-select {
+  margin-left: 0;
+}
+
+.createStep2 .field label {
+  margin-left: 5px;
+}
+
+.createStep2 #use_reminder_email {
+  margin-left: 0 !important;
+  margin-top: 1.5rem;
+}
+
+.createStep2  #secondform section:nth-of-type(3) {
+  display: none;
+}
+/* -- WYSIWYG Editor -- */
+
+.createStep2 #cke_description {
+  width: 100% !important;
+}
+
+.createStep2 span.cke_skin_bsd {
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  border: 0;
+  padding: 0;
+}
+
+#volunteer_box {
+  background-color: #208FEB;
+  border-radius: 5px;
+  box-shadow: 0px 0px 2px 0px #0D63AA;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+#volunteer_box h3{
+  color: white;
+  font-family: 'jubilat', sans-serif;
+  letter-spacing: 0;
+  text-transform: none;
+  margin-top: 0.3rem;
+  line-height: 1.1;
+}
+
+#volunteer_box .checkboxgroup {
+  margin-bottom: 10px;
+}
+
+.content #event_rsvp #volunteer_box .checkboxgroup input{
+  top: 25px;
+  height: auto;
+  width: auto;
+}
+
+.content #event_rsvp #volunteer_box .checkboxgroup label{
+  font-weight: 500;
+  padding: 24px 0 0 25px;
+  font-size: 1rem;
+  margin-top: 15px;
+}
+
+.content #event_rsvp #volunteer_box .checkboxgroup label em{
+  font-style: normal;
+  font-weight: 600;
+}
+
+#volunteer_box .loginforgotlink{
+  display: none;
+}
+
+#volunteer_box .col2, #volunteer_box .col2-2, #volunteer_box .col2-3 {
+  float: left;
+  width: 65%;
+  margin-right: 2.5%
+}
+
+#volunteer_box .col2-2{
+margin-right: 0;
+  width: 32.5%;
+}
+
+#volunteer_box .col2-3{
+  width: 30%;
+  margin-right: 0;
+  display: none;
+}
+
+.eventSuccess .ui-widget-header{
+  background: none;
+  border: 0;
+}
+
+.eventSuccess h2#sectionheader {
+  text-transform: none;
+  font-weight: 400;
+  font-size: 34px;
+  margin-top: 10px;
+}
+
+.eventSuccess #content form h3 {
+  font-family: 'jubilat', sans-serif;
+  color: white;
+  text-transform: none;
+  letter-spacing: 0;
+  margin: 0.8em 0 0.4em;
+  font-size: 1.8rem;
+}
+
+.eventSuccess .form_label {
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #C4DFF5;
+  margin: 1rem 0 0.2rem;
+}
+
+.eventSuccess #fixed_body {
+  background-color: #0D63AA;
+  padding: 1rem;
+  border-radius: 3px;
+  font-style: italic;
+  font-size: 1rem;
+  overflow: scroll;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.eventSuccess span.instructions strong {
+  font-weight: 500;
+  margin: 0.2rem 0 0.5rem;
+  text-align: center;
+  font-style: italic;
+  display: block;
+}
+
+.eventSuccess .bsd-shareButtons-wrap a.bsd-shareButton-facebook {
+  background: #999 url('../../../images/invite/bsd-fbShareBG.png') repeat-x top left;
+}
+
+.eventSuccess .bsd-shareButtons-wrap a.bsd-shareButton-twitter {
+  background: #999 url('../../../images/invite/bsd-twShareBG.png') repeat-x top left;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.eventSuccess .bsd-shareButtons-wrap a.bsd-shareButton-facebook,
+.eventSuccess .bsd-shareButtons-wrap a.bsd-shareButton-twitter{
+  display: block;
+  color: white;
+}
+
+.eventSuccess .bsd-shareButtons-wrap a.bsd-shareButton-facebook span {
+  padding-left: 20px;
+  background: url('../../../images/invite/bsd-fbIcon.png') no-repeat left;
+}
+.eventSuccess .bsd-shareButtons-wrap .bsd-shareButton-twitter span {
+  padding-left: 25px;
+  background: url('../../../images/invite/bsd-twIcon.png') no-repeat left;
+}
+
+@media (min-width: 768px) {
+  header{
+    margin-top: 0;
+  }
+
+  header h1 {
+    float: left;
+  }
+
+  header .contribute {
+    width: auto;
+    position: relative;
+    float: right;
+    margin-top: 0.3em;
+  }
+
+  .createStep2 #control_set .bsd-page-header-content h1 {
+    font-size: 2.2rem;
+  }
+
+  a.contribute:link,
+  a.contribute:visited,
+  a.contribute:active {
+    margin: 0.3em auto 0;
+    border-radius: 3px;
+    padding: 0.7rem 1.7rem;
+  }
+
+  .content{
+    padding: 1em 2em;
+  }
+
+  .createStep2 #control_set {
+     padding: 1rem 2rem;
+   }
+
+  .createStep2 .bsd-page-header-content button{
+    display: none;
+  }
+
+  .intro {
+    float: left;
+    width: 60%;
+    margin-right: 5%;
+    box-sizing: border-box;
+    margin-top: 1em;
+    padding-bottom: 4em;
+    padding-right: 1.5em;
+    padding-left: 0;
+  }
+
+  .signup {
+    margin-top: 3.2em;
+    float: right;
+    color: #EFF3F7;
+    width: 35%;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2, .forgot-pw #forgotpw .header  {
+    font-size: 2.6em;
+  }
+
+  blockquote {
+    font-size: 1.1rem;
+    padding: 0.5rem 1.5rem;
+  }
+
+  p, .forgot-pw #forgotpw .instructions {
+    font-size: 1.2em;
+  }
+
+  .createStep2 form{
+    width: 700px;
+    clear: both;
+    margin: 0 auto;
+  }
+
+  .createStep2 #control_set #account_actions {
+    float: right;
+    width:auto;
+    clear: none;
+    display: inline-block;
+     padding-top: 0rem;
+  }
+
+  .createStep2 #control_set #account_actions a {
+    border-bottom: 0;
+    border-right: 1px solid #EFF3F7;
+    display: inline-block;
+  }
+
+  .createStep2 #control_set #account_actions a:first-of-type {
+    border-radius: 3px 0 0 3px;
+  }
+
+  .createStep2 #control_set #account_actions a:last-of-type {
+    border-radius: 0 3px 3px 0;
+    border: 0;
+  }
+
+  .createStep2 form > div > section {
+    padding: 1rem 3rem 3rem;
+  }
+
+  .createStep2 #secondform > div > section:last-child {
+    padding: 1rem 3rem 1rem;
+  }
+
+ .createStep2 .tr.span-2{
+   width: 48%;
+   float: left;
+   margin-bottom: 20px;
+  }
+
+  .createStep2 .tr.span-2-2{
+    float: right;
+   }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+only screen and (-o-min-device-pixel-ratio:3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio:1.5) {
+  header h1 {
+    background-image: url('https://s.bsd.net/bernie16/main/page/-/website/logo-2x.png')
+  }
+  footer .billionaires {
+    background-image: url("https://s.bsd.net/bernie16/main/page/-/website/billionaires-2x.png");
+  }
+}
+
+</style><link rel="canonical" href="http://go.berniesanders.com/page/s/join"><link rel="stylesheet" href="//s.bsd.net/page/static/20160129/skins/bsd-light/signup/frontend.css" type="text/css"><script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script><script type="text/javascript">!window.jQuery && document.write(unescape('%3Cscript src="/ext/jquery/jquery-1.4.1.min.js"%3E%3C/script%3E'))</script><script src="//s.bsd.net/page/static/20160129/ext/jquery/cookie/jquery.cookie.min.js" type="text/javascript"></script><script src="/modules/spud/js/Spud.js.php" type="text/javascript"></script><script type="text/javascript">window.bQuery = jQuery.noConflict(true);</script><link rel="stylesheet" href="//s.bsd.net/page/static/20160129/css/jquery_ui_reset.css" type="text/css"><script src="//s.bsd.net/page/static/20160129/javascript/bsd.js" type="text/javascript"></script><script src="//s.bsd.net/page/static/20160129/utils/locale/javascript/locale.class.js" type="text/javascript"></script><script src="//s.bsd.net/page/static/20160129/ext/yui/build/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"></script><script src="//s.bsd.net/page/static/20160129/modules/signup/javascript/locale.js" type="text/javascript"></script><script src="//s.bsd.net/page/static/20160129/modules/signup/javascript/onsubmit.js" type="text/javascript"></script><script src="//s.bsd.net/page/static/20160129/utils/ajax/ajax.class.js" type="text/javascript"></script><script src="//s.bsd.net/page/static/20160129/ext/jquery/mailcheck/jquery.mailcheck.js" type="text/javascript"></script><script type="text/javascript"></script></head><body>
+
+<header class="clear"><div class="container">
+  <a href="//berniesanders.com/"><h1>Bernie Sanders for President</h1></a>
+
+  <div class="contribute">
+    <a href="https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=action-page" class="contribute">
+       Contribute
+    </a>
+  </div>
+</div>
+</header><div id="signupheader"><h1>Sign Up</h1>
+<h2>Bernie Sanders for President</h2>
+<h3 class="leader">Join the Campaign</h3>
+<p>After a year of travel, discussion and dialogue, I have decided to be a candidate for the Democratic nomination for president. But let's be clear. This campaign is not about Bernie Sanders. It's about a grassroots movement of Americans standing up and saying: "Enough is enough. This country and our government belong to all of us, not just a handful of billionaires."</p>
+<p>Our movement needs people like you involved to help it succeed. Add your name now to say you support my campaign for president.</p></div><br><form name="signup" class="bsd-signup-29" action="/page/s/join" method="post" id="signup">
+<table id="signuptable"><tr><td>
+<table width="100%"><td valign="top">
+    <div class="fieldset" id="bsd-field-email">
+        <div class="label"><label class="field">Email Address<span class="required">*</span></label></div>
+        <div class="input"><input type="email" class="text" size="48" id="email" name="email"></div></div>
+    </td></table></td></tr><tr><td><table width="100%"></table></td></tr><tr><td><table width="100%"><td valign="top">
+    <div class="fieldset" id="bsd-field-zip">
+        <div class="label"><label class="field">Postal Code<span class="required">*</span></label></div>
+        <div class="input"><input size="8" id="zip" name="zip" type="text"></div></div>
+    </td></table></td></tr><tr><td><table width="100%"><div style="display: none"><label for="best-contact-time">Please leave this field blank:</label> <input id="best-contact-time" name="best-contact-time" type="text"></div><td valign="top">
+    <div class="fieldset" id="bsd-field-submit-btn">
+        <div class="label"><label class="field"></label></div>
+        <div class="input"><input name="submit-btn" value="Join" type="submit"></div></div>
+    </td></table></td></tr><tr><td><table width="100%"><tr><td id="required_note"><span class="required">*</span><span style="font-size: 80%;"> Required</span></td></tr><input name="country" type="hidden" value="US"><input name="redirect_url" type="hidden" value=""><input id="_guid" name="_guid" type="hidden" value=""></table></td>
+</tr></table></form><div id="signupfooter"></div>
+<script type="text/javascript">
+    bQuery.bsd.spud('populateForm', 'signup',
+    [
+        'email',
+        'firstname',
+        'lastname',
+        'addr1',
+        'addr2',
+        'city',
+        'state_cd',
+        'zip',
+        'country',
+        'phone'
+    ]);
+
+
+    var submitted_state_cd = null;
+
+    var spudSent = false;
+    bQuery(document).ready(function() {
+        bQuery('#signup').submit(function(e) {
+
+            var guid = bQuery.cookie('guid');
+            if (typeof guid == 'string' && guid.length == 23) {
+                bQuery('#_guid').val(guid);
+            }
+
+            if (!spudSent) {
+                bQuery.bsd.spud('setFromForm', 'signup',
+                [
+                    'email',
+                    'firstname',
+                    'lastname',
+                    'addr1',
+                    'addr2',
+                    'city',
+                    'state_cd',
+                    'zip',
+                    'country',
+                    'phone'
+                 ], function () {
+                     spudSent = true;
+                     setTimeout(function() {bQuery('#signup').trigger('submit');}, 300);
+                 });
+                 e.preventDefault();
+             }
+
+        });
+    });
+</script><script type="text/javascript">
+        bQuery('#email').blur(
+            function() {
+                
+                bQuery(this).mailcheck({
+                                                domains: ["aol.com","att.net","bellsouth.net","charter.net","comcast.net","cox.net","earthlink.net","gmail.com","hotmail.com","icloud.com","live.com","mac.com","me.com","msn.com","optonline.net","outlook.com","sbcglobal.net","verizon.net","yahoo.com","ymail.com"],
+                        
+                            suggested: function(element, suggestion) {
+                               bQuery(element).parents('div.fieldset').children('.bsd-mailcheck').remove();
+
+                               bQuery(element).parents('div.fieldset').append(
+                                   '<span class="error bsd-mailcheck">Did you mean ' +
+                                   '<a class="bsd-mailcheck-fix-link" href="#">' +
+                                   suggestion.domain + '<' + '/a>?<' + '/span>');
+
+                               bQuery(element).parents('div.fieldset').find(".bsd-mailcheck-fix-link").click(
+                                   function() {
+                                       bQuery(element).val(suggestion.address + '@' + suggestion.domain);
+                                       bQuery(element).parents('div.fieldset').children('.bsd-mailcheck').remove();
+                                   });
+                           },
+                               empty: function(element) {
+                               bQuery(element).parents('div.fieldset').children('.bsd-mailcheck').remove();
+                           }
+                    });
+
+            });
+</script><div id="fb-root"></div><footer><script src="//d3c3cq33003psk.cloudfront.net/opentag-74688-1737389.js" async="" defer="defer"></script><p class="address">Bernie 2016<br>PO Box 905<br>Burlington, VT 05402</p>
+<p class="disclaimer">Paid for by Bernie 2016</p>
+<span class="billionaires">(not the billionaires)</span>
+<p><span class="copyright">&copy; Bernie 2016</span> | <a href="//berniesanders.com/privacy-policy/">Privacy Policy</a></p>
+<script src="//s.bsd.net/bernie16/main/page/-/sha1.js"></script><script>
+
+jQuery(document).ready(function() {
+  if(jQuery('.intro h1').text()=='Unsubscribe') {
+    jQuery('.unsub-msg').text("Please fill out this form. We'll remove you from our email list.");
+  }
+});
+  jQuery('header').nextUntil('footer').wrapAll('<div class="content" />');
+  jQuery('#signupheader').nextAll().wrapAll('<div class="signup" />');
+  jQuery('.content').children().nextUntil('form').andSelf(':first-child').wrapAll('<div class="intro" />');
+
+  if ( jQuery('.signup').length > 0 ) {
+      jQuery('form').prependTo('.signup');
+      jQuery('.signup').appendTo('.content');
+  } else {
+     jQuery('form').appendTo('.content');
+  }
+
+  jQuery('#invitationpage').addClass('signup');
+  jQuery('#invitationpage td, #unsub_form td, #signup td, #event_simple_search_form td, #event_rsvp td').contents().unwrap();
+  jQuery('#invitationpage table, #invitationpage tbody, #unsub_form table, #unsub_form tbody, #signup table, #signup tbody, #event_simple_search_form tbody, #event_simple_search_form table, #event_rsvp tbody, #event_rsvp table').contents().unwrap();
+  jQuery('#invitationpage tr, #unsub_form tr, #signup tr, #event_simple_search_form tr, #event_simple_search_form th, #event_rsvp tr, #event_rsvp th').contents().unwrap();
+
+jQuery( '#unsub_form').wrapAll('<div class="signup" />');
+
+  if(jQuery('.ui-widget-header h2').length>0) {
+    var interior = jQuery('.ui-widget-header h2').text();
+    var int_arr = interior.split(" -- ");
+    if(int_arr.length==2) {
+       jQuery('.ui-widget-header h2').text(int_arr[0]);
+       jQuery('.ui-widget-header').append('<h3>'+int_arr[1]+'');
+    }
+  }
+  var asterisk = '<span class="bsd-required-asterisk">*'
+  var asteriskHelp = '<span class="bsd-required-asterisk-help">*'
+  jQuery('.bsd-required-asterisk').remove();
+  jQuery(asterisk).insertBefore( ".bsd-required-text" );
+  jQuery('.bsd-required-asterisk').text(' *')
+  jQuery(asteriskHelp).prependTo('p:contains("denotes required field")');
+  jQuery('.bsd-required-asterisk-help').text('* ');
+   jQuery( ':checkbox').next( 'label' ).addClass('checkbox-label');
+
+   jQuery('.content').attr('id', 'content');
+   jQuery('.signuperror').prependTo( jQuery( '.signup' ) );
+
+
+
+jQuery( "#signup :checkbox" ).each(function(){
+  jQuery(this).nextUntil(':checkbox').andSelf().wrapAll('<div class="checkboxgroup" />');
+});
+
+jQuery( "#signup :radio" ).each(function(){
+  jQuery(this).nextUntil(':radio').andSelf().wrapAll('<div class="radiogroup" />');
+});
+
+jQuery( "#event_rsvp :radio" ).each(function(){
+  jQuery(this).nextUntil('br').andSelf().wrapAll('<div class="radiogroup" />');
+});
+
+jQuery( "#event_rsvp :checkbox" ).each(function(){
+  jQuery(this).nextUntil('br').andSelf().wrapAll('<div class="checkboxgroup" />');
+});
+
+jQuery( '.required').next('span').hide();
+jQuery( '#bsd-field-submit-btn').next('span').hide();
+
+jQuery( '#event_simple_search_form, #event_rsvp').wrapAll('<div class="signup" />');
+
+if( jQuery('#sectionheader:contains("You Have Signed Up...")').length > 0 ){ 
+  jQuery('body').addClass('eventSuccess');
+}
+
+if( jQuery('#event_simple_search_form').length || jQuery('#event_rsvp').length  ) {
+     jQuery('body').addClass('event-page');
+}
+
+if( jQuery('#event_result_container').length ) {
+     jQuery('body').addClass('event-page event-results');
+     
+     var url = window.location.href;
+     var params = url.split('?');
+     if ( (params[1].indexOf('orderby=date'))> -1 ){
+       BSD.event.srp.ajax.makeRequest({ orderby: 'day'});
+     }
+
+}
+
+jQuery('#addr2').insertAfter('#addr1');
+
+jQuery('#sectionheader').appendTo('.bsd-page-header-content h1');
+
+
+jQuery('.bsd-widget-header-content #sectionheader').prependTo('#event_rsvp');
+
+jQuery(".loginforgotlink").insertBefore("#event_rsvp .checkboxgroup");
+
+jQuery("#event_detail_xml_link").insertAfter('.title');
+
+ jQuery('h3.leader').prependTo('.signup');
+
+if( jQuery('.event-results').length ) {
+     jQuery('.content').append('<div class="signup">');
+     jQuery('#filters').appendTo('.signup');
+     
+}
+
+if (jQuery('#unsub_form').length > 0) {
+jQuery('.intro br').hide();
+  var unsubText = jQuery('.content').map(function() {
+    return this.nextSibling.nodeValue;
+  });
+  var newUnsubText = jQuery('<p class="unsub-msg">' + unsubText[0] + '');
+ 
+  jQuery(newUnsubText).appendTo('.intro');
+  
+  var x = document.getElementById("content").nextSibling;
+  //x.remove(x.selectedIndex);
+  jQuery(x).remove();
+
+}
+
+
+if (jQuery('#login_form').length > 0) {
+
+  jQuery.extend({
+    replaceTag: function(currentElem, newTagObj, keepProps) {
+      var jQuerycurrentElem = jQuery(currentElem);
+      var i, jQuerynewTag = jQuery(newTagObj).clone();
+      if (keepProps) { //{{{
+        newTag = jQuerynewTag[0];
+        newTag.className = currentElem.className;
+        jQuery.extend(newTag.classList, currentElem.classList);
+        jQuery.extend(newTag.attributes, currentElem.attributes);
+      } //}}}
+      jQuerycurrentElem.wrapAll(jQuerynewTag);
+      jQuerycurrentElem.contents().unwrap();
+      return this; 
+    }
+  });
+
+  jQuery.fn.extend({
+    replaceTag: function(newTagObj, keepProps) {
+      return this.each(function() {
+        jQuery.replaceTag(this, newTagObj, keepProps);
+      });
+    }
+  });
+
+  jQuery('table, tbody, th, tr, td').replaceTag('<div>', true);
+
+  jQuery('.loginforgotlink').insertAfter('#login_form :submit');
+
+  jQuery('#login_form').addClass('signup');
+
+}
+
+jQuery.fn.extend({
+    bsdTextWrap: function (notWrapped) {
+        var text = $(this).text();
+        jQuery(this)
+        .andSelf().contents().filter(function() {
+          return this.nodeType === 3;
+        }).filter(function() {
+          return this.nodeValue.indexOf(notWrapped) != -1;
+        }).each(function() {
+          jQuery(this).wrapAll('<label class="x" />');
+        });
+    return notWrapped;
+    }
+});
+
+if( jQuery('#volunteer_box').length > 0 ) {
+  jQuery('#volunteer_box').bsdTextWrap('Country:');
+  jQuery('#volunteer_box').bsdTextWrap('Address:');
+  jQuery('#volunteer_box').bsdTextWrap('City:');
+  jQuery('#volunteer_box').bsdTextWrap('Phone:');
+  jQuery('#volunteer_box').bsdTextWrap('State/Region/Province:');
+  jQuery('#volunteer_box').bsdTextWrap('Postal/Zip Code:');
+  jQuery('#volunteer_box .x').nextAll().addBack().wrapAll('<div class="vol-details"/>');
+  jQuery('.vol-details').hide();
+  jQuery('#volunteer_box h3').next().hide();
+  jQuery('label:contains("Province")').text('State');
+  jQuery('.x:contains("Code:")').text('Zip');
+  jQuery('.x:contains("City:")').text('City');
+  jQuery('.x:contains("Phone:")').text('Phone');
+  jQuery('#volunteer_box').insertBefore(':submit');
+  jQuery('#country').prev().remove();
+  jQuery('#country').remove();
+  jQuery('#country').prev().remove();
+  jQuery('#country').remove();
+  jQuery('label:contains("Address"), input[name="addr1"],input[name="addr2"]').remove();
+  jQuery('.x:contains("City")').nextUntil('.x').addBack().wrapAll('<div class="col2" />');
+  jQuery('.x:contains("State")').nextUntil('.x').addBack().wrapAll('<div class="col2-2" />');
+  jQuery('.x:contains("Zip")').nextAll().addBack().wrapAll('<div class="col2-3" />');
+  jQuery('<div class="clearfix" style="clear: both;">').insertAfter('.col2-3');
+  jQuery('#volunteer_box .checkboxgroup').insertAfter('#volunteer_box h3');
+}
+
+jQuery('#is_potential_volunteer_checkbox').on('change', function(){
+  jQuery('.vol-details').toggle();
+  jQuery('#zip').val(jQuery('#rsvp_nocreate_zip').val());
+});
+
+if( jQuery('#is_potential_volunteer_checkbox').is(":checked") ) {
+  jQuery('.vol-details').toggle();
+}
+
+jQuery('#event_rsvp')
+        .andSelf()
+        .contents()
+        .filter(function(){
+            return this.nodeType === 3;
+        })
+        .filter(function(){
+            return this.nodeValue.indexOf('(required)') != -1;
+        })
+        .each(function(){
+            jQuery(this).wrapAll('<p style="display: none;" />');
+           
+        });
+
+
+jQuery('#event_rsvp')
+        .andSelf()
+        .contents()
+        .filter(function(){
+            return this.nodeType === 3;
+        })
+        .filter(function(){
+            return this.nodeValue.indexOf('Your comment will be sent to the event host.') != -1;
+        })
+        .each(function(){
+            jQuery(this).wrapAll('<span style="display: none;" />');
+           
+        });
+
+
+jQuery('#event_rsvp')
+        .andSelf()
+        .contents()
+        .filter(function(){
+            return this.nodeType === 3;
+        })
+        .filter(function(){
+            return this.nodeValue.indexOf('Add a comment: (optional)') != -1;
+        })
+        .each(function(){
+            jQuery(this).wrapAll('<span style="display: none;" />');
+           
+        });
+
+
+if (jQuery('.login-widget').length > 0) {
+
+  jQuery('body').addClass('bsd-login');
+  jQuery('form').addClass('signup');
+  jQuery('#password1').parents('form').hide();
+
+}
+
+jQuery('.login-login-link a, .login-register-link a').on('click', function(){
+
+  jQuery('.signup').toggle();
+
+})
+
+if (jQuery('#forgotpw').length > 0) {
+  
+   jQuery.extend({
+    replaceTag: function(currentElem, newTagObj, keepProps) {
+      var jQuerycurrentElem = jQuery(currentElem);
+      var i, jQuerynewTag = jQuery(newTagObj).clone();
+      if (keepProps) { //{{{
+        newTag = jQuerynewTag[0];
+        newTag.className = currentElem.className;
+        jQuery.extend(newTag.classList, currentElem.classList);
+        jQuery.extend(newTag.attributes, currentElem.attributes);
+      } //}}}
+      jQuerycurrentElem.wrapAll(jQuerynewTag);
+      jQuerycurrentElem.contents().unwrap();
+      return this; 
+    }
+  });
+
+  jQuery.fn.extend({
+    replaceTag: function(newTagObj, keepProps) {
+      return this.each(function() {
+        jQuery.replaceTag(this, newTagObj, keepProps);
+      });
+    }
+  });
+
+  jQuery('table, tbody, th, tr, td').replaceTag('<div>', true);
+  jQuery('form').addClass('signup');
+  jQuery('body').addClass('forgot-pw');
+
+}
+
+if (jQuery('.ui-widget-header:contains("2 of 2")').length > 0 || jQuery('.ui-widget-header:contains("Edit Your Event")').length > 0) {
+  
+  jQuery('body').addClass('createStep2');
+
+  jQuery('input[name="duration_allday"]').nextAll().addBack().wrapAll('<div class="radiogroup" />');
+
+  jQuery.extend({
+    replaceTag: function(currentElem, newTagObj, keepProps) {
+      var jQuerycurrentElem = jQuery(currentElem);
+      var i, jQuerynewTag = jQuery(newTagObj).clone();
+      if (keepProps) { //{{{
+        newTag = jQuerynewTag[0];
+        newTag.className = currentElem.className;
+        jQuery.extend(newTag.classList, currentElem.classList);
+        jQuery.extend(newTag.attributes, currentElem.attributes);
+      } //}}}
+      jQuerycurrentElem.wrapAll(jQuerynewTag);
+      jQuerycurrentElem.contents().unwrap();
+      return this; 
+    }
+  });
+
+  jQuery.fn.extend({
+    replaceTag: function(newTagObj, keepProps) {
+      return this.each(function() {
+        jQuery.replaceTag(this, newTagObj, keepProps);
+      });
+    }
+  });
+  
+  jQuery('#control_set').insertBefore('#content');
+  jQuery('#control_set').addClass('clear');
+  jQuery('select[name^=start_day]').addClass('date-select');
+  jQuery('select[name^=start_time]').addClass('time-select');
+  jQuery('*[name^=duration_unit], *[name^=duration_num]').addClass('duration-select');
+  jQuery('#bsd-where').next('tbody').wrapAll('<table id="bsd-additional" />');
+  jQuery('#bsd-additional').insertAfter('#venue_information');
+  
+  jQuery('#secondform > div > table > tbody > tr > td').addClass('td'); 
+  jQuery('#secondform > div > table > tbody > tr').addClass('tr'); 
+  jQuery('#secondform > div > table > tbody > tr > td, #secondform > div > table > tbody > tr, #secondform > div > table > tbody').replaceTag('<div>', true);
+  jQuery('#secondform > div > table').replaceTag('<section>', true);
+  jQuery('<button type="button">Menu<span class="bar"><span class="bar"><span class="bar">').insertBefore('#account_actions');
+  jQuery('.cke_button_source').trigger("click");
+  jQuery('.cke_button_source').delay(500).trigger("click");
+
+  jQuery('select[name^=start_day], select[name^=start_time], select[name=venue_state_cd], input[name=venue_zip], input[name=host_addr_addressee], select[name=host_addr_country], select[name=host_addr_state_cd], input[name=host_addr_zip], select[name=venue_country], input[name=venue_name]').closest('.tr').addClass('span-2');
+
+  jQuery('select[name^=start_time], input[name=venue_zip], select[name=host_addr_country], input[name=host_addr_zip], select[name=venue_country]').closest('.tr').addClass('span-2-2');
+
+
+  jQuery('input[name=venue_addr2], input[name=host_addr_addr2]').parent().css('margin-top', '10px').siblings('.label').hide();
+
+jQuery('h3:contains("Contact Phone")').closest('.tr').css('margin-top', '60px').css('clear', 'both').addClass('clear');
+
+jQuery('#secondform :checkbox').closest('.tr').addClass('checkbox clear');
+
+jQuery('.createStep2 .bsd-page-header-content button').on('click', function(){
+  jQuery('#account_actions').fadeToggle(100, 'easeInOutCubic');
+});
+
+jQuery('.field.td').bsdTextWrap(' or ', 'div', 'x');
+  jQuery('.x').remove();
+}
+
+if (jQuery('.eventSuccess').length > 0) {
+  
+   jQuery.extend({
+    replaceTag: function(currentElem, newTagObj, keepProps) {
+      var jQuerycurrentElem = jQuery(currentElem);
+      var i, jQuerynewTag = jQuery(newTagObj).clone();
+      if (keepProps) { //{{{
+        newTag = jQuerynewTag[0];
+        newTag.className = currentElem.className;
+        jQuery.extend(newTag.classList, currentElem.classList);
+        jQuery.extend(newTag.attributes, currentElem.attributes);
+      } //}}}
+      jQuerycurrentElem.wrapAll(jQuerynewTag);
+      jQuerycurrentElem.contents().unwrap();
+      return this; 
+    }
+  });
+
+  jQuery.fn.extend({
+    replaceTag: function(newTagObj, keepProps) {
+      return this.each(function() {
+        jQuery.replaceTag(this, newTagObj, keepProps);
+      });
+    }
+  });
+
+  jQuery('form table, form tbody, form th, form tr, form td').replaceTag('<div>', true); 
+  jQuery('.content div[class=""]').children().unwrap(); jQuery('#invite_form').addClass('signup'); 
+  jQuery('#sectionheader').appendTo('.intro .ui-widget-header');
+
+  jQuery('.eventSuccess form').each(function() {
+    jQuery(this).html(jQuery(this).html().replace(/&nbsp;/gi, ''));
+  });
+
+  var str = jQuery('#fixed_body').text();
+  var eventId = str.substr(str.indexOf('/detail/')+8);
+
+  jQuery('<div class="bsd-shareButtons-wrap"><a class="bsd-shareButton-facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgo.berniesanders.com%2Fpage%2Fevent%2Fdetail%2F' + eventId +'" title="Share on Facebook" target="_blank"><span>Share on Facebook<a class="bsd-shareButton-twitter" href="http://twitter.com/intent/tweet?text=https%3A%2F%2Fgo.berniesanders.com%2Fpage%2Fevent%2Fdetail%2F'+ eventId +'" title="Tweet this" target="_blank"><span>Tweet this').insertAfter('.eventSuccess #invite_form .ui-widget-header');
+}
+
+  // Per Fund - Contrib Thanks
+  if(jQuery('.intro h2:contains("Contribution Processed")').length > 0){
+    jQuery('body').addClass('contrib-success');
+  }
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-58354050-1', 'auto');
+      ga('send', 'pageview');
+
+    </script><script type="text/javascript" src="https://berniesanders.com/wp-content/themes/berniesanders2016/assets/bsdmix.js"></script></footer></body></html>

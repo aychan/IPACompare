@@ -13,7 +13,8 @@ public class ApplicationIPA {
 
     
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        MainGUI GUI = new MainGUI(); //create GUI object
+        GUI.setVisible(true);        //Set GUI visible
     }
     
 }

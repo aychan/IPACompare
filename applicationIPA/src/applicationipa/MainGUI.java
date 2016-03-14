@@ -124,201 +124,97 @@ public class MainGUI extends javax.swing.JFrame {
 
         jLabel2.setText("Insert Data");
 
+        jLayeredPane1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
         jCheckBox1.setText("Sound");
+        jLayeredPane1.add(jCheckBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 6, -1, -1));
 
         jCheckBox3.setText("Tap");
+        jLayeredPane1.add(jCheckBox3, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 296, -1, -1));
 
         jCheckBox2.setText("Syllabic");
+        jLayeredPane1.add(jCheckBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 35, -1, -1));
 
         jCheckBox4.setText("Stress");
+        jLayeredPane1.add(jCheckBox4, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 64, -1, -1));
 
         jCheckBox5.setText("Consonantal");
+        jLayeredPane1.add(jCheckBox5, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 122, -1, -1));
 
         jCheckBox6.setText("Long");
+        jLayeredPane1.add(jCheckBox6, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 93, -1, -1));
 
         jCheckBox7.setText("Sonorant");
+        jLayeredPane1.add(jCheckBox7, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 151, -1, -1));
 
         jCheckBox8.setText("Approximant");
+        jLayeredPane1.add(jCheckBox8, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 267, -1, -1));
 
         jCheckBox9.setText("Release");
+        jLayeredPane1.add(jCheckBox9, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 238, -1, -1));
 
         jCheckBox10.setText("Delayed");
+        jLayeredPane1.add(jCheckBox10, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 209, -1, -1));
 
         jCheckBox11.setText("Continuant");
+        jLayeredPane1.add(jCheckBox11, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 180, -1, -1));
 
         jCheckBox23.setText("Trill");
+        jLayeredPane1.add(jCheckBox23, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 325, -1, -1));
 
         jCheckBox24.setText("Nasal");
+        jLayeredPane1.add(jCheckBox24, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 354, -1, -1));
 
         jCheckBox25.setText("Voice");
+        jLayeredPane1.add(jCheckBox25, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 383, -1, -1));
 
         jCheckBox26.setText("Spread GL");
+        jLayeredPane1.add(jCheckBox26, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 412, -1, -1));
 
         jCheckBox27.setText("Constr GL");
+        jLayeredPane1.add(jCheckBox27, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 441, -1, -1));
 
         jCheckBox28.setText("Labial");
+        jLayeredPane1.add(jCheckBox28, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 470, -1, -1));
 
         jCheckBox29.setText("Round");
+        jLayeredPane1.add(jCheckBox29, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 499, -1, -1));
 
         jCheckBox30.setText("Labiodental");
+        jLayeredPane1.add(jCheckBox30, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 528, -1, -1));
 
         jCheckBox31.setText("Coronal");
+        jLayeredPane1.add(jCheckBox31, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 557, -1, -1));
 
         jCheckBox32.setText("Anterior");
+        jLayeredPane1.add(jCheckBox32, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 586, -1, -1));
 
         jCheckBox33.setText("Distributed");
+        jLayeredPane1.add(jCheckBox33, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 615, -1, -1));
 
         jCheckBox34.setText("Strident");
+        jLayeredPane1.add(jCheckBox34, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 644, -1, -1));
 
         jCheckBox35.setText("Lateral");
+        jLayeredPane1.add(jCheckBox35, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 673, -1, -1));
 
         jCheckBox36.setText("Dorsal");
+        jLayeredPane1.add(jCheckBox36, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 702, -1, -1));
 
         jCheckBox37.setText("High");
+        jLayeredPane1.add(jCheckBox37, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 731, -1, -1));
 
         jCheckBox38.setText("Low");
+        jLayeredPane1.add(jCheckBox38, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 760, -1, -1));
 
         jCheckBox39.setText("Front");
+        jLayeredPane1.add(jCheckBox39, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 789, -1, -1));
 
         jCheckBox40.setText("Back");
+        jLayeredPane1.add(jCheckBox40, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 818, -1, -1));
 
         jCheckBox41.setText("Tense");
-
-        jLayeredPane1.setLayer(jCheckBox1, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox3, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox2, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox4, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox5, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox6, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox7, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox8, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox9, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox10, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox11, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox23, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox24, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox25, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox26, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox27, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox28, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox29, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox30, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox31, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox32, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox33, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox34, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox35, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox36, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox37, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox38, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox39, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox40, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane1.setLayer(jCheckBox41, javax.swing.JLayeredPane.DEFAULT_LAYER);
-
-        javax.swing.GroupLayout jLayeredPane1Layout = new javax.swing.GroupLayout(jLayeredPane1);
-        jLayeredPane1.setLayout(jLayeredPane1Layout);
-        jLayeredPane1Layout.setHorizontalGroup(
-            jLayeredPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLayeredPane1Layout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(jLayeredPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jCheckBox1)
-                    .addComponent(jCheckBox2)
-                    .addComponent(jCheckBox3)
-                    .addComponent(jCheckBox4)
-                    .addComponent(jCheckBox5)
-                    .addComponent(jCheckBox6)
-                    .addComponent(jCheckBox7)
-                    .addComponent(jCheckBox8)
-                    .addComponent(jCheckBox9)
-                    .addComponent(jCheckBox10)
-                    .addComponent(jCheckBox11)
-                    .addComponent(jCheckBox23)
-                    .addComponent(jCheckBox24)
-                    .addComponent(jCheckBox25)
-                    .addComponent(jCheckBox26)
-                    .addComponent(jCheckBox27)
-                    .addComponent(jCheckBox28)
-                    .addComponent(jCheckBox29)
-                    .addComponent(jCheckBox30)
-                    .addComponent(jCheckBox31)
-                    .addComponent(jCheckBox32)
-                    .addComponent(jCheckBox33)
-                    .addComponent(jCheckBox34)
-                    .addComponent(jCheckBox35)
-                    .addComponent(jCheckBox36)
-                    .addComponent(jCheckBox37)
-                    .addComponent(jCheckBox38)
-                    .addComponent(jCheckBox39)
-                    .addComponent(jCheckBox40)
-                    .addComponent(jCheckBox41))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        );
-        jLayeredPane1Layout.setVerticalGroup(
-            jLayeredPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLayeredPane1Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(jCheckBox1)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox2, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox4, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox6, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox5, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox7)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox11, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox10, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox9)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox8, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox3)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox23)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox24)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox25)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox26)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox27)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox28)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox29)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox30)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox31)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox32)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox33)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox34)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox35)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox36)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox37)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox38)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox39)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox40)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox41)
-                .addContainerGap())
-        );
+        jLayeredPane1.add(jCheckBox41, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 847, -1, -1));
 
         jScrollPane2.setViewportView(jLayeredPane1);
 
@@ -366,201 +262,97 @@ public class MainGUI extends javax.swing.JFrame {
 
         jLabel7.setText("Contexts of second class");
 
+        jLayeredPane3.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
         jCheckBox42.setText("Sound");
+        jLayeredPane3.add(jCheckBox42, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 6, -1, -1));
 
         jCheckBox43.setText("Tap");
+        jLayeredPane3.add(jCheckBox43, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 296, -1, -1));
 
         jCheckBox44.setText("Syllabic");
+        jLayeredPane3.add(jCheckBox44, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 35, -1, -1));
 
         jCheckBox45.setText("Stress");
+        jLayeredPane3.add(jCheckBox45, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 64, -1, -1));
 
         jCheckBox46.setText("Consonantal");
+        jLayeredPane3.add(jCheckBox46, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 122, -1, -1));
 
         jCheckBox47.setText("Long");
+        jLayeredPane3.add(jCheckBox47, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 93, -1, -1));
 
         jCheckBox48.setText("Sonorant");
+        jLayeredPane3.add(jCheckBox48, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 151, -1, -1));
 
         jCheckBox49.setText("Approximant");
+        jLayeredPane3.add(jCheckBox49, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 267, -1, -1));
 
         jCheckBox50.setText("Release");
+        jLayeredPane3.add(jCheckBox50, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 238, -1, -1));
 
         jCheckBox51.setText("Delayed");
+        jLayeredPane3.add(jCheckBox51, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 209, -1, -1));
 
         jCheckBox52.setText("Continuant");
+        jLayeredPane3.add(jCheckBox52, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 180, -1, -1));
 
         jCheckBox53.setText("Trill");
+        jLayeredPane3.add(jCheckBox53, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 325, -1, -1));
 
         jCheckBox54.setText("Nasal");
+        jLayeredPane3.add(jCheckBox54, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 354, -1, -1));
 
         jCheckBox55.setText("Voice");
+        jLayeredPane3.add(jCheckBox55, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 383, -1, -1));
 
         jCheckBox56.setText("Spread GL");
+        jLayeredPane3.add(jCheckBox56, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 412, -1, -1));
 
         jCheckBox57.setText("Constr GL");
+        jLayeredPane3.add(jCheckBox57, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 441, -1, -1));
 
         jCheckBox58.setText("Labial");
+        jLayeredPane3.add(jCheckBox58, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 470, -1, -1));
 
         jCheckBox59.setText("Round");
+        jLayeredPane3.add(jCheckBox59, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 499, -1, -1));
 
         jCheckBox60.setText("Labiodental");
+        jLayeredPane3.add(jCheckBox60, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 528, -1, -1));
 
         jCheckBox61.setText("Coronal");
+        jLayeredPane3.add(jCheckBox61, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 557, -1, -1));
 
         jCheckBox62.setText("Anterior");
+        jLayeredPane3.add(jCheckBox62, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 586, -1, -1));
 
         jCheckBox63.setText("Distributed");
+        jLayeredPane3.add(jCheckBox63, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 615, -1, -1));
 
         jCheckBox64.setText("Strident");
+        jLayeredPane3.add(jCheckBox64, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 644, -1, -1));
 
         jCheckBox65.setText("Lateral");
+        jLayeredPane3.add(jCheckBox65, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 673, -1, -1));
 
         jCheckBox66.setText("Dorsal");
+        jLayeredPane3.add(jCheckBox66, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 702, -1, -1));
 
         jCheckBox67.setText("High");
+        jLayeredPane3.add(jCheckBox67, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 731, -1, -1));
 
         jCheckBox68.setText("Low");
+        jLayeredPane3.add(jCheckBox68, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 760, -1, -1));
 
         jCheckBox69.setText("Front");
+        jLayeredPane3.add(jCheckBox69, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 789, -1, -1));
 
         jCheckBox70.setText("Back");
+        jLayeredPane3.add(jCheckBox70, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 818, -1, -1));
 
         jCheckBox71.setText("Tense");
-
-        jLayeredPane3.setLayer(jCheckBox42, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox43, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox44, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox45, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox46, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox47, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox48, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox49, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox50, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox51, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox52, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox53, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox54, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox55, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox56, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox57, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox58, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox59, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox60, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox61, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox62, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox63, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox64, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox65, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox66, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox67, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox68, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox69, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox70, javax.swing.JLayeredPane.DEFAULT_LAYER);
-        jLayeredPane3.setLayer(jCheckBox71, javax.swing.JLayeredPane.DEFAULT_LAYER);
-
-        javax.swing.GroupLayout jLayeredPane3Layout = new javax.swing.GroupLayout(jLayeredPane3);
-        jLayeredPane3.setLayout(jLayeredPane3Layout);
-        jLayeredPane3Layout.setHorizontalGroup(
-            jLayeredPane3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLayeredPane3Layout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(jLayeredPane3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jCheckBox42)
-                    .addComponent(jCheckBox44)
-                    .addComponent(jCheckBox43)
-                    .addComponent(jCheckBox45)
-                    .addComponent(jCheckBox46)
-                    .addComponent(jCheckBox47)
-                    .addComponent(jCheckBox48)
-                    .addComponent(jCheckBox49)
-                    .addComponent(jCheckBox50)
-                    .addComponent(jCheckBox51)
-                    .addComponent(jCheckBox52)
-                    .addComponent(jCheckBox53)
-                    .addComponent(jCheckBox54)
-                    .addComponent(jCheckBox55)
-                    .addComponent(jCheckBox56)
-                    .addComponent(jCheckBox57)
-                    .addComponent(jCheckBox58)
-                    .addComponent(jCheckBox59)
-                    .addComponent(jCheckBox60)
-                    .addComponent(jCheckBox61)
-                    .addComponent(jCheckBox62)
-                    .addComponent(jCheckBox63)
-                    .addComponent(jCheckBox64)
-                    .addComponent(jCheckBox65)
-                    .addComponent(jCheckBox66)
-                    .addComponent(jCheckBox67)
-                    .addComponent(jCheckBox68)
-                    .addComponent(jCheckBox69)
-                    .addComponent(jCheckBox70)
-                    .addComponent(jCheckBox71))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        );
-        jLayeredPane3Layout.setVerticalGroup(
-            jLayeredPane3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jLayeredPane3Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(jCheckBox42)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox44, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox45, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox47, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox46, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox48)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox52, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox51, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox50)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox49, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox43)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox53)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox54)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox55)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox56)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox57)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox58)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox59)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox60)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox61)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox62)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox63)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox64)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox65)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox66)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox67)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox68)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox69)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox70)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jCheckBox71)
-                .addContainerGap())
-        );
+        jLayeredPane3.add(jCheckBox71, new org.netbeans.lib.awtextra.AbsoluteConstraints(6, 847, -1, -1));
 
         jScrollPane6.setViewportView(jLayeredPane3);
 
@@ -569,86 +361,91 @@ public class MainGUI extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(279, 279, 279)
+                        .addComponent(jLabel1))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(6, 6, 6)
+                        .addComponent(jLabel2)
+                        .addGap(194, 194, 194)
+                        .addComponent(jLabel3)
+                        .addGap(54, 54, 54)
+                        .addComponent(jLabel4))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(6, 6, 6)
+                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(18, 18, 18)
+                        .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(32, 32, 32)
+                        .addComponent(jScrollPane6, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(6, 6, 6)
+                        .addComponent(CLEARTEXT)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(buttonRUN)
+                        .addGap(25, 25, 25)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel5)
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(30, 30, 30)
+                                .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE))))
                     .addGroup(layout.createSequentialGroup()
                         .addContainerGap()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addGroup(layout.createSequentialGroup()
-                                .addGap(6, 6, 6)
-                                .addComponent(jLabel6)))
+                                .addGap(18, 18, 18)
+                                .addComponent(jLabel6))
+                            .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 244, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jLabel7)
-                            .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 45, Short.MAX_VALUE)
-                        .addComponent(buttonRUN))
-                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                        .addComponent(jLabel5)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(layout.createSequentialGroup()
-                                .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(67, 67, 67)
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addComponent(jLabel4)
-                                    .addComponent(jScrollPane6, javax.swing.GroupLayout.PREFERRED_SIZE, 170, javax.swing.GroupLayout.PREFERRED_SIZE))))))
-                .addContainerGap(54, Short.MAX_VALUE))
-            .addGroup(layout.createSequentialGroup()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jLabel2)
-                            .addComponent(CLEARTEXT))
-                        .addGap(18, 18, 18)
-                        .addComponent(jLabel3))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(279, 279, 279)
-                        .addComponent(jLabel1)))
-                .addGap(0, 0, Short.MAX_VALUE))
+                            .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                .addGap(104, 104, 104))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
+                .addGap(6, 6, 6)
                 .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 20, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel4)
-                    .addComponent(jLabel3)
-                    .addComponent(jLabel2))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 284, Short.MAX_VALUE)
-                    .addComponent(jScrollPane6, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
-                    .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGap(12, 12, 12)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel2)
+                    .addComponent(jLabel3)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(22, 22, 22)
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addGap(2, 2, 2)
+                        .addComponent(jLabel4)))
+                .addGap(4, 4, 4)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 284, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 284, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jScrollPane6, javax.swing.GroupLayout.PREFERRED_SIZE, 284, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(6, 6, 6)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                         .addComponent(CLEARTEXT)
-                        .addComponent(jLabel5)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(buttonRUN)
+                        .addComponent(buttonRUN))
                     .addGroup(layout.createSequentialGroup()
-                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jLabel6)
-                            .addComponent(jLabel7))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel5)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 223, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 223, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                            .addGroup(layout.createSequentialGroup()
+                                .addGap(4, 4, 4)
+                                .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(8, 8, 8)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(jLabel6)
+                        .addGap(6, 6, 6)
+                        .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 223, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(jLabel7)
+                        .addGap(6, 6, 6)
+                        .addComponent(jScrollPane5, javax.swing.GroupLayout.PREFERRED_SIZE, 223, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addContainerGap(12, Short.MAX_VALUE))
         );
 
         pack();
